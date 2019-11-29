@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Arpitha Malavalli
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: Computer Science Sophmore at IIIT Bangalore
 
 
 #
@@ -42,7 +42,7 @@ google_analytics:
 url:
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
+ http://ArpithaMalavalli.github.io/ArpithaMalavalli.github.io
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
